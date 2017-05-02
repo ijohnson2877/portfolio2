@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Caviar Dreams';
+    src: url('fonts/caviardreams-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p{
+	font-family: 'Caviar Dreams', sans-serif;
+	color: #fff;
+}
+
+h2{
+	color: #b3ffff;
+}
+
+@font-face {
+    font-family: 'Cardo';
+    src: url('fonts/cardo-bold-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	background: url('../img/you.jpg') no-repeat center center;
+	margin: 0;
+	padding: 0;
+}
+
+.title-cover {
+	background-color: #fff;
+	padding: 20px;
+	font-size: 32px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border: solid 5px #b3ffff;	
+	text-align: center;
+}
+
+.bbq {
+	width:100%;
+	height: auto;
+	margin-left: 200px;
+	padding: 20px;
+}
+
+
+
